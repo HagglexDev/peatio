@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/rubykube/peatio.svg?branch=master)](https://travis-ci.org/rubykube/peatio)
 [![Telegram Chat](https://cdn.rawgit.com/Patrolavia/telegram-badge/8fe3382b/chat.svg)](https://t.me/peatio)
 
-## [Peatio.tech](https://www.peatio.tech) Introduction
+##   Introduction
 
 Peatio is a free and open-source crypto currency exchange implementation with the Rails framework.
 Peatio.tech is a fork of Peatio designed for micro-services architecture. We have simplified the code
